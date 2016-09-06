@@ -1,0 +1,25 @@
+body {
+  font-family: fantasy;
+  background-color: yellow;
+}
+
+h1 {
+  text-align: center;
+  color: blue
+
+}
+
+h3 {
+  text-align: center;
+  color: blue;
+}
+
+p {
+  text-align: justify;
+  color: white;
+  background-color: brown;
+}
+
+img {
+  object-fit: scale-down;
+}
